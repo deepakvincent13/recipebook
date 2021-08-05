@@ -18,9 +18,6 @@ Breakpoints are designed to develop in a mobile first approach
 # @apply Directive
 Use @apply to inline any existing utility classes into your own custom CSS.
 
-# @apply Directive
-Use @apply to inline any existing utility classes into your own custom CSS.
-
 # Extending styles
 Tailwind CSS provides options to extend the styles by adding custom utility classes.
 It can be done by extending the theme in tailwind-config.js file
